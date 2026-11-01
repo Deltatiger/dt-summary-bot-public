@@ -24,9 +24,9 @@ DT Summary Bot. No build step or dependencies — plain HTML and one stylesheet.
 
 For this repository that is:
 
-- Home: https://deltatiger.github.io/dt-summary-bot/
-- Privacy: https://deltatiger.github.io/dt-summary-bot/privacy.html
-- Terms: https://deltatiger.github.io/dt-summary-bot/terms.html
+- Home: https://deltatiger.github.io/dt-summary-bot-public/
+- Privacy: https://deltatiger.github.io/dt-summary-bot-public/privacy.html
+- Terms: https://deltatiger.github.io/dt-summary-bot-public/terms.html
 
 All links are relative, so the site also works on a user/org Pages site or a
 custom domain.
